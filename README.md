@@ -9,7 +9,7 @@ showDown est un plugin jQuery qui permet de masquer ou afficher la barre de navi
 
 Insérer dans votre index.html la ligne de code suivante
 
-<pre><script src="js/showDown.js"></script></pre>
+<script src="js/showDown.js"></script>
 
 puis
 
