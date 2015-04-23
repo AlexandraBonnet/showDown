@@ -1,9 +1,7 @@
 /**
- * Created by Alex on 04/09/2014.
+ * Created by AlexandraBonnet on 04/09/2014.
  */
-/**
- * Created by Alex on 04/09/2014.
- */
+
 (function($) {
 
     $.fn.showDown = function() {
